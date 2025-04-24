@@ -1,0 +1,11 @@
+KPI,Description
+I_RECHARGE_AMOUNT,recharge amount 
+CUSTOMER_STATUS,Indicates the status of the customer as active or inactive
+ACTION_GROUP,"Types of the account values like Prepaid, Max, Hybrid, Postpaid, Fiber plans, B2B"
+PURCHASE_DATE,Represents the last date of purchase or activity by a customer 
+D2_OUTBUNDLED_AMOUNT,Average revenue per user (ARPU)
+PROFILE_DOJ,Age on network (AON)
+M1_DATA_OB_VOLUME,Life time Value of a customer
+PREDICTED_CHURN_PROPENSITY_SCORE,Predicted churn propensity score of a customer
+TOPUP_DATE,Location of a customer
+I_DATE,Recharge Date
